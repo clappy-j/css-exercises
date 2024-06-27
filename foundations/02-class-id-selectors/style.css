@@ -1,6 +1,6 @@
 .foo{
     background-color :rgb(246, 135, 141);
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 #grace{
     color: #0000FF;
@@ -11,6 +11,6 @@
 }
 #olive{
     background-color: #6dea99;
-    font-size: 24px;
+    /*font-size: 24px; this can be removed and the class foo bar can be added to this element as well to pickup on the font size*/
     font-weight: bold;
 }
