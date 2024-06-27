@@ -1,0 +1,16 @@
+.foo{
+    background-color :rgb(246, 135, 141);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#grace{
+    color: #0000FF;
+    font-size: 36px;
+}
+.foo.bar{
+    font-size: 24px;
+}
+#olive{
+    background-color: #6dea99;
+    font-size: 24px;
+    font-weight: bold;
+}
