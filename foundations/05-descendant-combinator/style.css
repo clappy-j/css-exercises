@@ -1,0 +1,10 @@
+div p {
+    background-color: yellow;
+    text-align: center;
+}
+
+.container .text {
+    color: red;
+    font-size: 20px;
+}
+/* I have 2 rules setup to show how the class and element can be used to style the descendant combinators work. *\
